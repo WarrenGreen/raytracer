@@ -7,3 +7,5 @@
 ![speheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/multiple_spheres.png)
 ![speheres with antialiasing](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/antialiasing.png)
 ![diffuse spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/diffuse_spheres.png)
+![metal spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/metal_spheres.png)
+![metal spheres texture](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/metal_spheres_texture.png)

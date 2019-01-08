@@ -4,3 +4,5 @@
 ![background linear blend](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/linear_blend.png)
 ![spehere without gradient](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/sphere.png)
 ![spehere with surface normal visualization](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/sphere_surface_normal.png)
+![speheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/multiple_spheres.png)
+![speheres with antialiasing](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/antialiasing.png)

@@ -9,3 +9,4 @@
 ![diffuse spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/diffuse_spheres.png)
 ![metal spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/metal_spheres.png)
 ![metal spheres texture](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/metal_spheres_texture.png)
+![dielectric sphere](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/dielectric_sphere.png)

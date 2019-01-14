@@ -11,5 +11,5 @@
 ![metal spheres texture](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/metal_spheres_texture.png)
 ![dielectric sphere](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/dielectric_sphere.png)
 ![field of view spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/field_of_view_spheres.png)
-![random spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/random_spheres.png)
+![random spheres](https://raw.githubusercontent.com/WarrenGreen/raytracer/master/generated/random_spheres_ns=100.png)
 
